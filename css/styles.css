@@ -704,7 +704,7 @@ h1 {
 
 .experience__imgBackground {
 
-    background-image: url(../images/experience-qes.jpg);
+    background-image: url(/images/experience-qes.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
