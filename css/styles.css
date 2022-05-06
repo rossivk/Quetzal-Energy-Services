@@ -64,6 +64,7 @@ li {
 }
 
 
+  
 .site-header {
     position: absolute;
     z-index: 10;
@@ -72,8 +73,12 @@ li {
     padding: 10px 50px;
     display: flex;
     align-items: center;
-    width: 100vw;
+    top: 0;
+    left: 0;
+    right: 0;
 }
+
+
 
 .site-header__logo {
     width: 15%;
